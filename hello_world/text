@@ -1,1 +1,6 @@
-This is a very basic exercise where it will print the string 'Hello World!'.
+
+
+Implement a program that will output the string 'Hello World!'.
+In addition, try to perform the exercise trying to concatenate several strings that can
+be static (pushed by the compiler in the static area) or dynamic (pushed by the compiler
+in heap).
