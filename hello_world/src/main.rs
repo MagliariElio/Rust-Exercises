@@ -31,4 +31,5 @@ fn another_way_of_concatenation() {
     let s8 = s1 + s4;
     // let s8 = s1.add(s4);
     println!(" - {}\n", s8);
+
 }
